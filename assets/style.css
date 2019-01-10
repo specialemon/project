@@ -1,0 +1,25 @@
+header{
+    background: cadetblue;
+    height: 100px;
+    width:100%;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.center{
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1{
+    position:absolute;
+    left:200px;
+    top:15px;
+}
+
+p{
+    background: grey;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
